@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Nikola Stevanović 🙂
 
-- 🔭 I’m currently working on new projects to which will improve and verify my knowledge.
+- 🔭 I’m currently working on new projects which will improve and verify my knowledge.
 - 🌱 I’m currently improving my skills in:
    - NestJS
    - FastAPI
