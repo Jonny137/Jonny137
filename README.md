@@ -1,14 +1,3 @@
-### Hi there 👋, I'm Nikola Stevanović 🙂
-
-- 🔭 I’m currently working on new projects which will improve and verify my knowledge.
-- 🌱 I’m currently improving my skills in:
-   - NestJS
-   - FastAPI
-   - Microservice architecture
-   - DB scaling
-   - React
-
-
 ## 🚀 My humble Github stats
 
 [![Nikola Stevanovic's Github Stats](https://github-readme-stats.vercel.app/api?username=Jonny137&theme=dark)](https://github-readme-stats.vercel.app/api?username=Jonny137&theme=dark)
